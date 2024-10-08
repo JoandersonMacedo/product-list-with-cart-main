@@ -25,7 +25,7 @@
     align-items: center;
     justify-content: center;
     align-self: flex-end;
-    width: 50%;
+    width: 60%;
 }
 
 .group2 {
@@ -46,6 +46,12 @@
 
 .price {
     color: hsl(14, 86%, 42%);
+}
+
+@media (max-width:1200px) {
+    .button {
+        width: 50%;
+    }
 }
 
 /*

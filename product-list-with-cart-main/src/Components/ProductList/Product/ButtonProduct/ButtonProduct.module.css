@@ -75,7 +75,7 @@
     align-items: center;
 }
 
-.cartIcon > img {
+.cartIcon > svg {
     position: absolute;
 }
 
