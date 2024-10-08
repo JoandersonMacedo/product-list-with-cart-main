@@ -1,0 +1,20 @@
+.container {
+    width: 27%;
+    padding: 2rem 1.85rem;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.title {
+    color: hsl(14, 86%, 42%);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+@media (max-width:1200px) {
+    .container {
+        width: 100%;
+    }
+}

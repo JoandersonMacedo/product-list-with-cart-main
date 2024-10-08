@@ -1,0 +1,65 @@
+.container {
+    display: grid;
+    grid-template-areas:
+        "name x"
+        "group x"
+    ;
+    grid-template-columns: 1fr auto;
+    row-gap: 0.75rem;
+    border-bottom: 1px solid hsl(13, 31%, 94%);
+    padding: 1rem 0;
+    font-size: 0.875rem;
+    box-sizing: border-box;
+}
+
+.container p:nth-child(1) {
+    grid-area: name;
+}
+
+.container div:nth-child(2) {
+    grid-area: group;
+}
+
+.container div:nth-child(3) {
+    grid-area: x;
+    align-self: center;
+
+}
+
+.name {
+    color: hsl(14, 65%, 9%);
+}
+
+.group {
+    display: flex;
+    gap: 1rem;
+    align-items: end;
+    color: hsl(12, 20%, 44%);
+}
+
+.quantity {
+    color: hsl(14, 86%, 42%);
+}
+
+.price {
+    font-weight: 400;
+}
+
+.xIcon {
+    border: 1px solid hsl(14, 25%, 72%);
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.xIcon:hover {
+    cursor: pointer;
+    border-color: hsl(14, 65%, 9%);
+
+    svg path {
+        fill: hsl(14, 65%, 9%);
+    }
+}
