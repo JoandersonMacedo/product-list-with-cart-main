@@ -12,7 +12,7 @@
 }
 
 .orderConfirmation {
-    width: 40vw;
+    width: 30%;
     background-color: #FFFFFF;
     box-sizing: border-box;
     padding: 2.5rem;
@@ -33,7 +33,7 @@
     display: none;
 }
 
-.confirmIicon {
+.confirmIcon {
     align-self: self-start;
 }
 

@@ -1,10 +1,10 @@
 [
     {
        "image": {
-            "thumbnail": "./assets/images/image-waffle-thumbnail.jpg",
-            "mobile": "./assets/images/image-waffle-mobile.jpg",
-            "tablet": "./assets/images/image-waffle-tablet.jpg",
-            "desktop": "./assets/images/image-waffle-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/K8fGPSwr/image-waffle-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/dt8t0T9f/image-waffle-mobile.jpg",
+            "tablet": "https://i.postimg.cc/JzM7H46z/image-waffle-tablet.jpg",
+            "desktop": "https://i.postimg.cc/bNXw8R1b/image-waffle-desktop.jpg"
        },
        "name": "Waffle with Berries",
        "category": "Waffle",
@@ -13,10 +13,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-creme-brulee-thumbnail.jpg",
-            "mobile": "./assets/images/image-creme-brulee-mobile.jpg",
-            "tablet": "./assets/images/image-creme-brulee-tablet.jpg",
-            "desktop": "./assets/images/image-creme-brulee-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/x1DnDTDP/image-creme-brulee-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/g2VdYFGb/image-creme-brulee-mobile.jpg",
+            "tablet": "https://i.postimg.cc/LsmS5CsY/image-creme-brulee-tablet.jpg",
+            "desktop": "https://i.postimg.cc/xTbn4N7C/image-creme-brulee-desktop.jpg"
         },
         "name": "Vanilla Bean Crème Brûlée",
         "category": "Crème Brûlée",
@@ -25,10 +25,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-macaron-thumbnail.jpg",
-            "mobile": "./assets/images/image-macaron-mobile.jpg",
-            "tablet": "./assets/images/image-macaron-tablet.jpg",
-            "desktop": "./assets/images/image-macaron-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/zvHZ64xM/image-macaron-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/qRRdXNyp/image-macaron-mobile.jpg",
+            "tablet": "https://i.postimg.cc/50RWPfSL/image-macaron-tablet.jpg",
+            "desktop": "https://i.postimg.cc/s2KrhYBn/image-macaron-desktop.jpg"
         },
         "name": "Macaron Mix of Five",
         "category": "Macaron",
@@ -37,10 +37,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-tiramisu-thumbnail.jpg",
-            "mobile": "./assets/images/image-tiramisu-mobile.jpg",
-            "tablet": "./assets/images/image-tiramisu-tablet.jpg",
-            "desktop": "./assets/images/image-tiramisu-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/L5P4LqFn/image-tiramisu-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/1t258GTk/image-tiramisu-mobile.jpg",
+            "tablet": "https://i.postimg.cc/ryRwvHRM/image-tiramisu-tablet.jpg",
+            "desktop": "https://i.postimg.cc/ydk86Qfh/image-tiramisu-desktop.jpg"
         },
         "name": "Classic Tiramisu",
         "category": "Tiramisu",
@@ -49,10 +49,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-baklava-thumbnail.jpg",
-            "mobile": "./assets/images/image-baklava-mobile.jpg",
-            "tablet": "./assets/images/image-baklava-tablet.jpg",
-            "desktop": "./assets/images/image-baklava-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/mZpgqsgd/image-baklava-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/zXLGYcLq/image-baklava-mobile.jpg",
+            "tablet": "https://i.postimg.cc/yYwY1y9c/image-baklava-tablet.jpg",
+            "desktop": "https://i.postimg.cc/2ytjB4tp/image-baklava-desktop.jpg"
         },
         "name": "Pistachio Baklava",
         "category": "Baklava",
@@ -61,10 +61,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-meringue-thumbnail.jpg",
-            "mobile": "./assets/images/image-meringue-mobile.jpg",
-            "tablet": "./assets/images/image-meringue-tablet.jpg",
-            "desktop": "./assets/images/image-meringue-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/HWrrTxRG/image-meringue-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/Vs2dvwPJ/image-meringue-mobile.jpg",
+            "tablet": "https://i.postimg.cc/MKRXjLzd/image-meringue-tablet.jpg",
+            "desktop": "https://i.postimg.cc/7bv8kXcL/image-meringue-desktop.jpg"
         },
         "name": "Lemon Meringue Pie",
         "category": "Pie",
@@ -73,10 +73,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-cake-thumbnail.jpg",
-            "mobile": "./assets/images/image-cake-mobile.jpg",
-            "tablet": "./assets/images/image-cake-tablet.jpg",
-            "desktop": "./assets/images/image-cake-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/jq1Rc4Mm/image-cake-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/wM1gH1jw/image-cake-mobile.jpg",
+            "tablet": "https://i.postimg.cc/J0SmhRyM/image-cake-tablet.jpg",
+            "desktop": "https://i.postimg.cc/G27dZFdB/image-cake-desktop.jpg"
         },
         "name": "Red Velvet Cake",
         "category": "Cake",
@@ -85,10 +85,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-brownie-thumbnail.jpg",
-            "mobile": "./assets/images/image-brownie-mobile.jpg",
-            "tablet": "./assets/images/image-brownie-tablet.jpg",
-            "desktop": "./assets/images/image-brownie-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/fLTM22nn/image-brownie-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/pdvW8Vsd/image-brownie-mobile.jpg",
+            "tablet": "https://i.postimg.cc/3wZKZMqF/image-brownie-tablet.jpg",
+            "desktop": "https://i.postimg.cc/8zMkjfB3/image-brownie-desktop.jpg"
         },
         "name": "Salted Caramel Brownie",
         "category": "Brownie",
@@ -97,10 +97,10 @@
      },
      {
         "image": {
-            "thumbnail": "./assets/images/image-panna-cotta-thumbnail.jpg",
-            "mobile": "./assets/images/image-panna-cotta-mobile.jpg",
-            "tablet": "./assets/images/image-panna-cotta-tablet.jpg",
-            "desktop": "./assets/images/image-panna-cotta-desktop.jpg"
+            "thumbnail": "https://i.postimg.cc/W4p4CbgH/image-panna-cotta-thumbnail.jpg",
+            "mobile": "https://i.postimg.cc/wjQvwsyN/image-panna-cotta-mobile.jpg",
+            "tablet": "https://i.postimg.cc/LsyspKV6/image-panna-cotta-tablet.jpg",
+            "desktop": "https://i.postimg.cc/x128GPCY/image-panna-cotta-desktop.jpg"
         },
         "name": "Vanilla Panna Cotta",
         "category": "Panna Cotta",

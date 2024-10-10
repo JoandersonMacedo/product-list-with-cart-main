@@ -7,10 +7,13 @@ function AppContainer() {
 
     return (
         <>
-            <OrderConfirmation />
+            
             <main>
-                <ProductList />
-                <Cart />
+                <div className={styles.main}>
+                    <ProductList />
+                    <Cart />
+                    <OrderConfirmation />
+                </div>
             </main>
         </>
     )
